@@ -1,0 +1,53 @@
+html { 
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    margin: 5px;
+    padding: 10px;
+}
+body {
+    padding: 2%;
+    background-color: papayawhip;
+    color: #4C5454
+    
+    
+}
+table, caption {
+    background-color: #DAFEB7;
+    
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    border: 1px solid;
+    border-radius: 20px;
+    margin: 5px;
+    margin-left:  10px auto;
+    padding: 5px;
+    background-color: #F5F2B8;
+}
+p {
+    color: hsl(138, 87%, 22%);
+    text-align: justify;
+    text-indent: 0.25em;
+    line-height: 1.4;
+    letter-spacing: normal;
+
+}
+a { 
+    color: black;
+}
+a:visited {
+    color: black;
+}
+
+a:hover, a:active {
+    color: black;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid black;
+    font-family: 'courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
